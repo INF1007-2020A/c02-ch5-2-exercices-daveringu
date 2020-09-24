@@ -11,7 +11,7 @@ def get_num_letters(text):
 	return num_letter
 
 def get_word_length_histogram(text):
-
+    
 	return [0]
 
 def format_histogram(histogram):
