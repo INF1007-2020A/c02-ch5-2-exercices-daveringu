@@ -6,7 +6,7 @@ import math
 def get_num_letters(text):
     num_letter=0
     for chr in text:
-        if lettre alphanum:
+        if chralphanum:
             num.letter+=1
 	return num_letter
 
