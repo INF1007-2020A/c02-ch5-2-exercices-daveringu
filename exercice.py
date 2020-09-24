@@ -7,8 +7,8 @@ def get_num_letters(text):
     num_letter=0
     for chr in text:
         if lettre alphanum:
-            num.letter
-	return 0
+            num.letter+=1
+	return num_letter
 
 def get_word_length_histogram(text):
 	return [0]
