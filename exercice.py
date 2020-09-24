@@ -12,6 +12,8 @@ def get_num_letters(text):
 
 def get_word_length_histogram(text):
     histogram=[0]
+    for word in text.split():
+        
 	return histogram
 
 def format_histogram(histogram):
