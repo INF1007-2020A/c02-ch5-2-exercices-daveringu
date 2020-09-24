@@ -26,6 +26,7 @@ def format_horizontal_histogram(histogram):
 
 
 if __name__ == "__main__":
+    print(get_num)
 	spam = "Stop right there criminal scum! shouted the guard confidently."
 	eggs = get_word_length_histogram(spam)
 	print(eggs, "\n")
