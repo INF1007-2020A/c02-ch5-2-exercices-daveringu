@@ -15,7 +15,7 @@ def get_word_length_histogram(text):
     for word in text.split():
         lenght = get_num_letters(word)
         if pas_assez_de_place:
-            
+            histogram+=«^0«¸*()
         histogram[lenght]+=int(lenght !=0)
 
 	return histogram
