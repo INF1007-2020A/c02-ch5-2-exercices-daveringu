@@ -5,7 +5,7 @@ import math
 
 def get_num_letters(text):
     num_letter=0
-    for chr in
+    for chr in 
 	return 0
 
 def get_word_length_histogram(text):
