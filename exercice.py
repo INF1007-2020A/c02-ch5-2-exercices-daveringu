@@ -12,7 +12,7 @@ def get_num_letters(text):
 
 def get_word_length_histogram(text):
     histogram=[0]
-	return [0]
+	return histogram
 
 def format_histogram(histogram):
 	ROW_CHAR = "*"
