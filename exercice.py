@@ -16,7 +16,7 @@ def get_word_length_histogram(text):
         lenght = get_num_letters(word)
         if lenght>=len(histogram):
             
-            histogram+=[0]*()
+            histogram+=[0]*(lenght)
         histogram[lenght]+=int(lenght !=0)
 
 	return histogram
